@@ -1,2 +1,2 @@
-# Zookeeper
-A python program to coincide with my Jetbrains Academy learning track.
+# hello_world
+learning how to use github
